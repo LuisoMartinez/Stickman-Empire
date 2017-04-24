@@ -4,8 +4,3 @@
 soldado::soldado(void)
 {
 }
-
-
-soldado::~soldado(void)
-{
-}
